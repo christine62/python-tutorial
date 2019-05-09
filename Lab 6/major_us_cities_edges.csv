@@ -1,0 +1,236 @@
+0,1,weight
+"El Paso, TX","Albuquerque, NM",367.8858436
+"El Paso, TX","Mesa, AZ",536.25666
+"El Paso, TX","Tucson, AZ",425.4138674
+"El Paso, TX","Phoenix, AZ",558.7835704
+"El Paso, TX","Colorado Springs, CO",797.7517117
+"Long Beach, CA","Oakland, CA",579.5829987
+"Long Beach, CA","Mesa, AZ",590.1562042
+"Long Beach, CA","Sacramento, CA",611.064979
+"Long Beach, CA","Tucson, AZ",698.6566668
+"Long Beach, CA","San Jose, CA",518.2330606
+"Long Beach, CA","Fresno, CA",360.4704578
+"Long Beach, CA","San Diego, CA",151.4500825
+"Long Beach, CA","Phoenix, AZ",567.4125391
+"Long Beach, CA","San Francisco, CA",585.6985398
+"Long Beach, CA","Los Angeles, CA",31.69419564
+"Long Beach, CA","Las Vegas, NV",385.2597725
+"Dallas, TX","Arlington, TX",29.42593132
+"Dallas, TX","Wichita, KS",548.0572492
+"Dallas, TX","Oklahoma City, OK",306.2597807
+"Dallas, TX","New Orleans, LA",711.0141469
+"Dallas, TX","Houston, TX",361.5418591
+"Dallas, TX","Kansas City, MO",730.3775879
+"Dallas, TX","San Antonio, TX",406.0065657
+"Dallas, TX","Memphis, TN",675.3316243
+"Dallas, TX","Tulsa, OK",382.464108
+"Dallas, TX","Austin, TX",292.9114663
+"Dallas, TX","Fort Worth, TX",49.93359899
+"Oakland, CA","Sacramento, CA",109.8215979
+"Oakland, CA","San Jose, CA",61.90292319
+"Oakland, CA","Fresno, CA",250.2309726
+"Oakland, CA","San Diego, CA",730.9953136
+"Oakland, CA","San Francisco, CA",13.42808053
+"Oakland, CA","Los Angeles, CA",552.3121684
+"Oakland, CA","Las Vegas, NV",658.3408716
+"Albuquerque, NM","Mesa, AZ",514.5675469
+"Albuquerque, NM","Tucson, AZ",510.7965705
+"Albuquerque, NM","Phoenix, AZ",534.0407586
+"Albuquerque, NM","Denver, CO",536.4291828
+"Albuquerque, NM","Colorado Springs, CO",445.6400042
+"Albuquerque, NM","Las Vegas, NV",779.9534169
+"Baltimore, MD","Raleigh, NC",429.0122832
+"Baltimore, MD","Cleveland, OH",495.1075478
+"Baltimore, MD","Philadelphia, PA",144.0640482
+"Baltimore, MD","Boston, MA",578.0875135
+"Baltimore, MD","Charlotte, NC",586.2855476
+"Baltimore, MD",Washington D.C.,56.16567491
+"Baltimore, MD","New York, NY",272.3842218
+"Baltimore, MD","Detroit, MI",637.6886783
+"Baltimore, MD","Columbus, OH",551.5744272
+"Baltimore, MD","Virginia Beach, VA",276.4842803
+"Raleigh, NC","Cleveland, OH",688.612509
+"Raleigh, NC","Louisville/Jefferson County, KY",688.7073657
+"Raleigh, NC","Atlanta, GA",571.2185029
+"Raleigh, NC","Philadelphia, PA",554.7433743
+"Raleigh, NC","Charlotte, NC",208.6997989
+"Raleigh, NC",Washington D.C.,375.2253061
+"Raleigh, NC","New York, NY",680.9077808
+"Raleigh, NC","Indianapolis, IN",795.0096233
+"Raleigh, NC","Nashville-Davidson, TN",733.3988291
+"Raleigh, NC","Columbus, OH",601.6987724
+"Raleigh, NC","Virginia Beach, VA",266.3738586
+"Raleigh, NC","Jacksonville, FL",667.2967758
+"Mesa, AZ","Tucson, AZ",157.2601731
+"Mesa, AZ","San Diego, CA",502.3263561
+"Mesa, AZ","Phoenix, AZ",22.7955304
+"Mesa, AZ","Los Angeles, CA",596.6944423
+"Mesa, AZ","Las Vegas, NV",429.898831
+"Arlington, TX","Wichita, KS",550.8138003
+"Arlington, TX","Oklahoma City, OK",305.8953556
+"Arlington, TX","New Orleans, LA",735.802623
+"Arlington, TX","Houston, TX",369.5566421
+"Arlington, TX","Kansas City, MO",742.8459955
+"Arlington, TX","San Antonio, TX",390.8981857
+"Arlington, TX","Memphis, TN",703.661624
+"Arlington, TX","Tulsa, OK",393.3587398
+"Arlington, TX","Austin, TX",280.8343388
+"Arlington, TX","Fort Worth, TX",20.93069668
+"Sacramento, CA","San Jose, CA",142.3716835
+"Sacramento, CA","Fresno, CA",253.9761319
+"Sacramento, CA","San Diego, CA",760.0327692
+"Sacramento, CA","San Francisco, CA",120.6813468
+"Sacramento, CA","Los Angeles, CA",581.3180719
+"Sacramento, CA","Portland, OR",777.4903266
+"Sacramento, CA","Las Vegas, NV",621.6693472
+"Wichita, KS","Oklahoma City, OK",247.3691536
+"Wichita, KS","Kansas City, MO",286.7887193
+"Wichita, KS","Memphis, TN",709.8334441
+"Wichita, KS","Denver, CO",701.4183355
+"Wichita, KS","Omaha, NE",412.2771985
+"Wichita, KS","Tulsa, OK",208.1658494
+"Wichita, KS","Colorado Springs, CO",665.1967107
+"Wichita, KS","Fort Worth, TX",548.224927
+"Tucson, AZ","San Diego, CA",587.0077247
+"Tucson, AZ","Phoenix, AZ",173.3786819
+"Tucson, AZ","Los Angeles, CA",710.4231699
+"Tucson, AZ","Las Vegas, NV",585.0709976
+"Cleveland, OH","Louisville/Jefferson County, KY",500.1707648
+"Cleveland, OH","Philadelphia, PA",575.9173041
+"Cleveland, OH","Chicago, IL",494.2464074
+"Cleveland, OH","Charlotte, NC",700.9265026
+"Cleveland, OH",Washington D.C.,488.9898877
+"Cleveland, OH","New York, NY",649.4502673
+"Cleveland, OH","Indianapolis, IN",422.6497658
+"Cleveland, OH","Detroit, MI",145.0420206
+"Cleveland, OH","Nashville-Davidson, TN",738.3543836
+"Cleveland, OH","Milwaukee, WI",538.5642098
+"Cleveland, OH","Columbus, OH",203.1732827
+"Cleveland, OH","Virginia Beach, VA",713.1719916
+"Louisville/Jefferson County, KY","Atlanta, GA",515.3935694
+"Louisville/Jefferson County, KY","Kansas City, MO",770.6369007
+"Louisville/Jefferson County, KY","Chicago, IL",433.1420159
+"Louisville/Jefferson County, KY","Charlotte, NC",551.7938054
+"Louisville/Jefferson County, KY",Washington D.C.,760.8391296
+"Louisville/Jefferson County, KY","Memphis, TN",514.7054394
+"Louisville/Jefferson County, KY","Indianapolis, IN",171.9340285
+"Louisville/Jefferson County, KY","Detroit, MI",508.1660423
+"Louisville/Jefferson County, KY","Nashville-Davidson, TN",249.2754907
+"Louisville/Jefferson County, KY","Milwaukee, WI",561.8059932
+"Louisville/Jefferson County, KY","Columbus, OH",304.3956401
+"San Jose, CA","Fresno, CA",198.6640032
+"San Jose, CA","San Diego, CA",669.6772911
+"San Jose, CA","San Francisco, CA",67.53245691
+"San Jose, CA","Los Angeles, CA",491.2445774
+"San Jose, CA","Las Vegas, NV",614.3930569
+"Oklahoma City, OK","Houston, TX",665.2175149
+"Oklahoma City, OK","Kansas City, MO",479.9148642
+"Oklahoma City, OK","San Antonio, TX",677.7885672
+"Oklahoma City, OK","Memphis, TN",677.9358508
+"Oklahoma City, OK","Omaha, NE",656.2791186
+"Oklahoma City, OK","Tulsa, OK",157.0695041
+"Oklahoma City, OK","Austin, TX",578.2822602
+"Oklahoma City, OK","Colorado Springs, CO",747.0145687
+"Oklahoma City, OK","Fort Worth, TX",301.8627912
+"Atlanta, GA","New Orleans, LA",682.3849549
+"Atlanta, GA","Charlotte, NC",363.8361259
+"Atlanta, GA","Memphis, TN",541.5047877
+"Atlanta, GA","Indianapolis, IN",687.1751453
+"Atlanta, GA","Nashville-Davidson, TN",345.6125154
+"Atlanta, GA","Columbus, OH",701.2644983
+"Atlanta, GA","Jacksonville, FL",458.6557418
+"New Orleans, LA","Houston, TX",511.0238424
+"New Orleans, LA","Memphis, TN",577.6842584
+"New Orleans, LA","Austin, TX",738.1686404
+"New Orleans, LA","Fort Worth, TX",755.8533394
+"New Orleans, LA","Nashville-Davidson, TN",755.075295
+"Miami, FL","Jacksonville, FL",527.779712
+"Fresno, CA","San Diego, CA",507.431377
+"Fresno, CA","Phoenix, AZ",789.7484331
+"Fresno, CA","San Francisco, CA",260.4696097
+"Fresno, CA","Los Angeles, CA",329.8997353
+"Fresno, CA","Las Vegas, NV",418.9499273
+"Philadelphia, PA","Boston, MA",435.3560792
+"Philadelphia, PA","Charlotte, NC",724.7428433
+"Philadelphia, PA",Washington D.C.,198.2437138
+"Philadelphia, PA","New York, NY",129.5365482
+"Philadelphia, PA","Detroit, MI",710.1462899
+"Philadelphia, PA","Columbus, OH",667.0538289
+"Philadelphia, PA","Virginia Beach, VA",351.6415981
+"Houston, TX","San Antonio, TX",304.1503948
+"Houston, TX","Memphis, TN",779.1727315
+"Houston, TX","Tulsa, OK",712.8495435
+"Houston, TX","Austin, TX",235.1985113
+"Houston, TX","Fort Worth, TX",381.3872408
+"Boston, MA",Washington D.C.,633.2724256
+"Boston, MA","New York, NY",305.913692
+"Boston, MA","Virginia Beach, VA",742.5833492
+"Kansas City, MO","Chicago, IL",663.1871353
+"Kansas City, MO","Memphis, TN",594.6054292
+"Kansas City, MO","Omaha, NE",267.8459868
+"Kansas City, MO","Tulsa, OK",350.1966547
+"Kansas City, MO","Minneapolis, MN",662.1046218
+"Kansas City, MO","Fort Worth, TX",747.1268741
+"Kansas City, MO","Indianapolis, IN",726.2520742
+"Kansas City, MO","Nashville-Davidson, TN",759.482046
+"Kansas City, MO","Milwaukee, WI",709.592137
+"San Diego, CA","Phoenix, AZ",480.550985
+"San Diego, CA","San Francisco, CA",737.1473893
+"San Diego, CA","Los Angeles, CA",179.2974672
+"San Diego, CA","Las Vegas, NV",426.1758424
+"Chicago, IL","Memphis, TN",776.6422941
+"Chicago, IL","Omaha, NE",698.947396
+"Chicago, IL","Minneapolis, MN",570.2677333
+"Chicago, IL","Indianapolis, IN",265.0916992
+"Chicago, IL","Detroit, MI",381.2299668
+"Chicago, IL","Nashville-Davidson, TN",639.3273292
+"Chicago, IL","Milwaukee, WI",130.9717562
+"Chicago, IL","Columbus, OH",443.2947566
+"Charlotte, NC",Washington D.C.,530.120005
+"Charlotte, NC","Indianapolis, IN",688.3846733
+"Charlotte, NC","Nashville-Davidson, TN",545.8353444
+"Charlotte, NC","Columbus, OH",559.2175271
+"Charlotte, NC","Virginia Beach, VA",472.9503686
+"Charlotte, NC","Jacksonville, FL",549.2112199
+Washington D.C.,"New York, NY",327.3784752
+Washington D.C.,"Indianapolis, IN",789.4034447
+Washington D.C.,"Detroit, MI",633.5169854
+Washington D.C.,"Columbus, OH",524.8211194
+Washington D.C.,"Virginia Beach, VA",246.4451492
+"San Antonio, TX","Tulsa, OK",783.4079577
+"San Antonio, TX","Austin, TX",118.3631481
+"San Antonio, TX","Fort Worth, TX",386.3748687
+"Phoenix, AZ","Los Angeles, CA",573.9011737
+"Phoenix, AZ","Las Vegas, NV",411.9094912
+"San Francisco, CA","Los Angeles, CA",558.7708979
+"San Francisco, CA","Las Vegas, NV",670.2380165
+"Memphis, TN","Tulsa, OK",548.096113
+"Memphis, TN","Fort Worth, TX",721.7845496
+"Memphis, TN","Indianapolis, IN",617.2952203
+"Memphis, TN","Nashville-Davidson, TN",315.7501103
+"Los Angeles, CA","Las Vegas, NV",367.3728009
+"New York, NY","Detroit, MI",772.9011411
+"New York, NY","Columbus, OH",765.9634514
+"New York, NY","Virginia Beach, VA",461.6569071
+"Denver, CO","Omaha, NE",777.8863249
+"Denver, CO","Colorado Springs, CO",101.6507593
+"Omaha, NE","Tulsa, OK",566.5584361
+"Omaha, NE","Minneapolis, MN",469.537646
+"Omaha, NE","Colorado Springs, CO",796.8394904
+"Omaha, NE","Milwaukee, WI",695.2855662
+"Seattle, WA","Portland, OR",232.980035
+"Tulsa, OK","Austin, TX",674.0711766
+"Tulsa, OK","Fort Worth, TX",397.0462555
+"Austin, TX","Fort Worth, TX",279.2607716
+"Minneapolis, MN","Milwaukee, WI",479.2877597
+"Indianapolis, IN","Detroit, MI",386.1408407
+"Indianapolis, IN","Nashville-Davidson, TN",404.3913216
+"Indianapolis, IN","Milwaukee, WI",391.5388446
+"Indianapolis, IN","Columbus, OH",270.306348
+"Detroit, MI","Milwaukee, WI",404.7034897
+"Detroit, MI","Nashville-Davidson, TN",756.9438647
+"Detroit, MI","Columbus, OH",263.4237647
+"Nashville-Davidson, TN","Milwaukee, WI",770.1467064
+"Nashville-Davidson, TN","Columbus, OH",536.2745484
+"Milwaukee, WI","Columbus, OH",532.5684227
+"Columbus, OH","Virginia Beach, VA",701.8766662
